@@ -19,3 +19,13 @@ git checkout Chapter1.txt - завантаження останньої зава
 
 git remote add origin https://github.com/NebrisRoot/ProjectOne.git  - вигрузка даних у онлайн репозиторій.
 git push -u origin main
+
+git rm --cached -r . - видалить файли з репозиторію
+
+Створення гілок розробки.
+
+git branch (Назва)- створення нової гілки розробки.
+
+git branch - перелік гылок розробки.
+
+git checkout (Назва) - пеключитись на гілку з назвою (Назва)
